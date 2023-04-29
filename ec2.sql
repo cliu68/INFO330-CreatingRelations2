@@ -1,3 +1,5 @@
+--extracredit2
+
 create table trainer(
 		trainer_id int primary key,
 		first_name varchar(80) not null,
